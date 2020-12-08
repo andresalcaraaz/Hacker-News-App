@@ -20,7 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		CEA7F87F24EB2B87000B3C35 /* H4KR.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = H4KR.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		CEA7F87F24EB2B87000B3C35 /* H4CK3R.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = H4CK3R.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEA7F88224EB2B87000B3C35 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CEA7F88424EB2B87000B3C35 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		CEA7F88624EB2B87000B3C35 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ContentView.swift; path = ../ContentView.swift; sourceTree = "<group>"; };
@@ -57,7 +57,7 @@
 		CEA7F88024EB2B87000B3C35 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				CEA7F87F24EB2B87000B3C35 /* H4KR.app */,
+				CEA7F87F24EB2B87000B3C35 /* H4CK3R.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,9 +108,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		CEA7F87E24EB2B87000B3C35 /* H4KR */ = {
+		CEA7F87E24EB2B87000B3C35 /* H4CK3R */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = CEA7F89324EB2B8B000B3C35 /* Build configuration list for PBXNativeTarget "H4KR" */;
+			buildConfigurationList = CEA7F89324EB2B8B000B3C35 /* Build configuration list for PBXNativeTarget "H4CK3R" */;
 			buildPhases = (
 				CEA7F87B24EB2B87000B3C35 /* Sources */,
 				CEA7F87C24EB2B87000B3C35 /* Frameworks */,
@@ -120,9 +120,9 @@
 			);
 			dependencies = (
 			);
-			name = H4KR;
+			name = H4CK3R;
 			productName = H4KR;
-			productReference = CEA7F87F24EB2B87000B3C35 /* H4KR.app */;
+			productReference = CEA7F87F24EB2B87000B3C35 /* H4CK3R.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -140,7 +140,7 @@
 					};
 				};
 			};
-			buildConfigurationList = CEA7F87A24EB2B87000B3C35 /* Build configuration list for PBXProject "H4KR" */;
+			buildConfigurationList = CEA7F87A24EB2B87000B3C35 /* Build configuration list for PBXProject "H4CK3R" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -153,7 +153,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				CEA7F87E24EB2B87000B3C35 /* H4KR */,
+				CEA7F87E24EB2B87000B3C35 /* H4CK3R */,
 			);
 		};
 /* End PBXProject section */
@@ -328,8 +328,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.andresalcaraz.H4KR;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.andresalcaraz.H4CK3R;
+				PRODUCT_NAME = H4CK3R;
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -350,8 +350,8 @@
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.andresalcaraz.H4KR;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.andresalcaraz.H4CK3R;
+				PRODUCT_NAME = H4CK3R;
 				SUPPORTS_MACCATALYST = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -361,7 +361,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		CEA7F87A24EB2B87000B3C35 /* Build configuration list for PBXProject "H4KR" */ = {
+		CEA7F87A24EB2B87000B3C35 /* Build configuration list for PBXProject "H4CK3R" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEA7F89124EB2B8B000B3C35 /* Debug */,
@@ -370,7 +370,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		CEA7F89324EB2B8B000B3C35 /* Build configuration list for PBXNativeTarget "H4KR" */ = {
+		CEA7F89324EB2B8B000B3C35 /* Build configuration list for PBXNativeTarget "H4CK3R" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				CEA7F89424EB2B8B000B3C35 /* Debug */,
